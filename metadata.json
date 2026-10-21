@@ -1,0 +1,8 @@
+{
+  "name": "Atmosphere - Real-Time Weather Hub",
+  "description": "Modern real-time weather web application featuring live OpenWeatherMap forecasts, dynamic atmospheric visuals, air quality insights, hourly trends, and multi-day projections.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
